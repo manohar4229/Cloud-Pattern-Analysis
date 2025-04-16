@@ -1,6 +1,5 @@
 Collecting workspace informationHere is a `README.md` file for your project based on the analysis of app.py:
 
-```markdown
 # Cloud Pattern Analysis
 
 This project is a **Streamlit-based web application** for detecting and segmenting cloud patterns in images. The application uses a deep learning model (UNet++) to identify and segment four classes of cloud patterns: **Fish**, **Flower**, **Gravel**, and **Sugar**. It provides an interactive interface for uploading images, configuring thresholds, and visualizing predictions with bounding boxes.
@@ -30,9 +29,8 @@ The application requires the following Python libraries:
 
 Install the dependencies using the following command:
 
-```bash
+bash
 pip install -r requirements.txt
-```
 
 ## File Structure
 
